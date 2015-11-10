@@ -24,4 +24,5 @@ python fb_house_robber.py -i 20,18,16,14,12,10,4,1,5,9,3,2,7,8,6,11,15,17,19,13
 Example Output:
 ```
 Best rob: 112
+Robbed houses [0, 2, 4, 6, 9, 11, 13, 15, 17, 19]
 ```
